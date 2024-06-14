@@ -5,9 +5,8 @@ const Header = () => {
   return (
     <div className='header'>
         <div className="header-contents">
-            <h2>Order your favourite food here</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur similique error iure qui sed, repellendus ratione nobis debitis architecto soluta.</p>
-            <button>View Menu</button>
+            <h2>Satisfy your cravings <br /> Order Now</h2>
+            <p>Choose us for a seamless and delightful food delivery experience. Enjoy your favorite dishes, crafted with the finest ingredients, delivered right to your doorstep. </p>
         </div>
     </div>
   )
