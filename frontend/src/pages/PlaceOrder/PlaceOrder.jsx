@@ -99,7 +99,7 @@ const PlaceOrder = () => {
               <b>₹{getTotalCartAmount() === 0 ? 0 : getTotalCartAmount() + 20}</b>
             </div>
           </div>
-          <button type='submit'>Proceed to Payment</button>
+          <button type='submit'>Proceed to Payment <br/> (Use Stripe Test Card)</button>
         </div>
       </div>
     </form>
