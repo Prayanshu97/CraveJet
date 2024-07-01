@@ -15,7 +15,7 @@ const Cart = () => {
     } else {
         alert('Please log in to proceed to checkout.');
     }
-};
+  };
 
   return (
     <div className='cart'>
